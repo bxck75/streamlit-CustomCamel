@@ -1,0 +1,1 @@
+Develop a advanced ui only tblack-market simulation game in python with tkinter
